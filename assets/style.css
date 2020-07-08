@@ -1,0 +1,12 @@
+
+.full-height{
+    min-height: 100vh;
+}
+
+.size{
+ max-height: 32vh;
+}
+
+.bg-black{
+    background-color: black;
+}
